@@ -18,10 +18,10 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 ### git
 
-1. git add
-2. git commit -m ""
-3. git push
-4. git pull
+* git add
+* git commit -m ""
+* git push
+* git pull
 
 ### sublimetext
 
