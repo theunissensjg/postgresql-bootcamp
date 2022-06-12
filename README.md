@@ -16,7 +16,6 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 * \dt show tables in <database>
 * \d describe <table>
 
-
 ### git
 
 1. git add
