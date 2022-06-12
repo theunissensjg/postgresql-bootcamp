@@ -1,3 +1,13 @@
+-- public northwind.sql
+-- bootcamp customers, products, purchases, stock_prices, stock_symbols, stock_types
+-- hr has hr.sql
+
+CREATE SCHEMA movies;
+
+CREATE SCHEMA bootcamp;
+
+CREATE SCHEMA hr;
+
 CREATE TABLE movies.actors(
     actor_id SERIAL PRIMARY KEY,
     first_name VARCHAR(150),
@@ -44,3 +54,19 @@ CREATE TABLE movies.movies_actors (
 );
 
 CREATE SCHEMA mydata;
+
+-- insert directors.sql
+-- insert actors.sql
+-- insert movies.sql
+-- insert movies_actors.sql
+-- insert movies_revnues.sql
+
+-- insert products.sql
+-- insert customers.sql
+-- insert purchases.sql
+
+-- insert stock_prices.sql
+-- insert stock_symbols.sql
+-- insert stock_types.sql
+
+
