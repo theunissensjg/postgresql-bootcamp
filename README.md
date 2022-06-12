@@ -1,10 +1,7 @@
 # Overview
 
-Link to class:
-https://www.udemy.com/course/postgresqlmasterclass/
-
-Link to Git set-up:
-https://www.youtube.com/watch?v=RGOj5yH7evk
+* [Link to class](https://www.udemy.com/course/postgresqlmasterclass/)
+* [Link to Git set-up](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 ----------------------------------
 
@@ -12,9 +9,9 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 ### pgsql
 
-* \c connect to <database>
-* \dt show tables in <database>
-* \d describe <table>
+* \c connect to **database**
+* \dt show tables in **database**
+* \d describe **table**
 
 ### git
 
