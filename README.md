@@ -1,7 +1,7 @@
 # Overview
 
 * [Link to class](https://www.udemy.com/course/postgresqlmasterclass/)
-* [Link to Git set-up](https://www.youtube.com/watch?v=RGOj5yH7evk)
+* [Link to git set-up](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 ----------------------------------
 
