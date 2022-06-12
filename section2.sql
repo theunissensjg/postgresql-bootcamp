@@ -1,0 +1,3 @@
+-- public northwind.sql
+-- bootcamp customers, products, purchases, stock_prices, stock_symbols, stock_types
+-- hr has hr.sql
