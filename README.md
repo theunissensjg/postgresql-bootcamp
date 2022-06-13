@@ -32,3 +32,12 @@
 4. HAVING
 5. SELECT
 6. ORDER BY
+
+### [Conversion Functions](https://www.postgresql.org/docs/current/functions-formatting.html)
+
+- to_char
+- to_number
+- to_date
+- to_timestamp
+
+
