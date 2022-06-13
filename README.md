@@ -21,3 +21,14 @@
 * git pull
 
 ### sublimetext
+
+---------------------------------
+## Summary
+
+[Order of execution](https://towardsdatascience.com/the-6-steps-of-a-sql-select-statement-process-b3696a49a642):
+1. FROM / JOIN
+2. WHERE
+3. GROUP BY
+4. HAVING
+5. SELECT
+6. ORDER BY
