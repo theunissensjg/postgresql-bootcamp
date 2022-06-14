@@ -1,4 +1,4 @@
-### TODO:
+## TODO
 - look into more Git functionality (branches, pull requests)
 - create project with psql
 - kudvenkat for missing knowledge
@@ -35,6 +35,7 @@
 | REPLACE() | section14|
 | CAST()  | - |
 | CONCAT_WS()  | adds two or more expressions together with a separator|
+| COALESCE(argument_1, argument_2, …) | returns the first argument that is not null |
 
 ---------------------------------
 ## Summary
