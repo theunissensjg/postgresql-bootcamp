@@ -1,0 +1,21 @@
+-- DATE --> YYYY-MM-DD
+-- TIME --> HH:MM:SS
+-- TIMESTAMP --> YYYY-MM-DD HH:MM:SS
+
+-- SELECT DATE('1994-09-28');
+
+-- -- TO_DATE(string, format)
+-- SELECT TO_DATE('1994-09-28', 'YYYY-MM-DD');
+
+-- SELECT TO_DATE('1994-09-28', 'MONTH');
+
+-- EXTRACT(FIELD FROM SOURCE)
+-- DATE_PART(FIELD, SOURCE)
+-- DATE_TRUNC('datepart', FIELD)
+
+-- SELECT DATE_PART('YEAR', DATE('1994-09-28')) + 10;
+
+-- SELECT AGE(CURRENT_DATE, DATE('1994-09-28'));
+
+-- SELECT date_trunc('month', TO_DATE(CAST(release_date AS VARCHAR(50)), 'YYYY-MM-DD HH:MM:SS'))
+-- FROM movies.movies;
